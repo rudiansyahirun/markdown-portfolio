@@ -1,1 +1,1 @@
-[GitHub Page](https://rudiansyahirun.github.io/markdown-portfolio/)
+[GitHub Profile](https://github.com/rudiansyahirun/)
